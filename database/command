@@ -1,0 +1,1 @@
+docker run --detach --name=nestjs_crud_db --env="MYSQL_ROOT_PASSWORD=mjxmjx" --publish 6033:3306 --volume=/Users/mikemo/Projects/nestjs-crud/database/datafiles:/var/lib/mysql mysql:5.7
