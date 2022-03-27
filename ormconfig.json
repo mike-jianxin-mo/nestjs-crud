@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 6033,
+    "username": "nestjs",
+    "password": "123456",
+    "database": "nestjs_crud",
+    "entities": [],
+    "synchronize": true
+  }
